@@ -1,8 +1,7 @@
 <h3>Let's first get clear on what supervised learning is?</h3>
 
-<h4>
-Supervised learning is an algorithm used to discover patterns in labeled datasets, like identifying between 'spam' and 'not spam' emails. In this example, the emails are already labeled as either spam or not spam, and the algorithm determines this by examining factors such as the sender, information, or the email's content.</h4>
 
+Supervised learning is an algorithm used to discover patterns in labeled datasets, like identifying between 'spam' and 'not spam' emails. In this example, the emails are already labeled as either spam or not spam, and the algorithm determines this by examining factors such as the sender, information, or the email's content.
 
 
 Other realworld example includes:
