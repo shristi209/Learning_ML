@@ -5,7 +5,6 @@
 Supervised learning is an algorithm used to discover patterns in labeled datasets, like identifying between 'spam' and 'not spam' emails. In this example, the emails are already labeled as either spam or not spam, and the algorithm determines this by examining factors such as the sender, information, or the email's content.
 
 
-
 Other realworld example includes:
 *   Recommendation Systems based on their past activities.
 *   Speech Recognition use supervised ml to understand and respond spoken language.
