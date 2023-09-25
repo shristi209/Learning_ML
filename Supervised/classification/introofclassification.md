@@ -20,7 +20,7 @@ Example: Classifying images of actors by comparing facial features. Higher votes
 
 The Impact of K in KNN:
 
-**Larger K:**Can lead to underfitting, where the model is too simple to capture relationships.
+**Larger K:** Can lead to underfitting, where the model is too simple to capture relationships.
 
 **Smaller K:** Can result in overfitting, where the model is overly complex and fits noise.
 
