@@ -1,0 +1,2 @@
+Logistic regression is a statistical method used for binary classification and, in some cases, for multi-class classification problems. It is a type of generalized linear model (GLM) that models the probability of a binary outcome as a function of one or more independent variables. It's widely used in various fields, including machine learning, statistics, and social sciences, for tasks like spam detection, medical diagnosis, and credit scoring.
+
