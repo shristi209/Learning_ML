@@ -54,7 +54,7 @@ Like from the example, It's 5/6 precision
 
 **Recall** is calculated by
 
-    True Positive / total truth values = TP / (TP + TN)
+    True Positive / total truth values = TP / (TP + FN)
 
 Like from the example, It's 5 / 8 recall
 
